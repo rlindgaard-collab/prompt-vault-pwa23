@@ -1,0 +1,86 @@
+[
+  {
+    "fane": "AI Assistance",
+    "section": "Writing",
+    "kategori": "Creative Writing",
+    "prompt": "Write a compelling short story about a character who discovers they can communicate with plants. Include dialogue and vivid descriptions of the natural world."
+  },
+  {
+    "fane": "AI Assistance",
+    "section": "Writing",
+    "kategori": "Business Writing",
+    "prompt": "Draft a professional email to a client explaining a project delay, including an apology, explanation of the issue, revised timeline, and steps being taken to prevent future delays."
+  },
+  {
+    "fane": "AI Assistance",
+    "section": "Analysis",
+    "kategori": "Data Analysis",
+    "prompt": "Analyze the following dataset and provide insights on trends, patterns, and recommendations. Include visualizations if possible and explain your methodology."
+  },
+  {
+    "fane": "AI Assistance",
+    "section": "Analysis",
+    "kategori": "Market Research",
+    "prompt": "Conduct a competitive analysis of the top 5 companies in [industry]. Compare their strengths, weaknesses, market position, and identify opportunities for differentiation."
+  },
+  {
+    "fane": "Development",
+    "section": "Frontend",
+    "kategori": "React",
+    "prompt": "Create a reusable React component for a modal dialog with the following features: backdrop click to close, escape key support, focus management, and customizable content."
+  },
+  {
+    "fane": "Development",
+    "section": "Frontend",
+    "kategori": "CSS",
+    "prompt": "Design a responsive navigation menu that works on both desktop and mobile devices. Include hover effects, smooth transitions, and accessibility features."
+  },
+  {
+    "fane": "Development",
+    "section": "Backend",
+    "kategori": "API Design",
+    "prompt": "Design a RESTful API for a blog application. Include endpoints for posts, comments, users, and authentication. Provide example requests and responses."
+  },
+  {
+    "fane": "Development",
+    "section": "Backend",
+    "kategori": "Database",
+    "prompt": "Create a database schema for an e-commerce platform including tables for products, users, orders, and inventory. Include relationships and constraints."
+  },
+  {
+    "fane": "Marketing",
+    "section": "Content",
+    "kategori": "Social Media",
+    "prompt": "Create a week's worth of engaging social media posts for a sustainable fashion brand. Include captions, hashtags, and content ideas for Instagram, Twitter, and LinkedIn."
+  },
+  {
+    "fane": "Marketing",
+    "section": "Content",
+    "kategori": "Email Marketing",
+    "prompt": "Write a welcome email series for new subscribers to a fitness app. Include 3 emails: welcome message, feature highlights, and motivation/tips."
+  },
+  {
+    "fane": "Marketing",
+    "section": "Strategy",
+    "kategori": "Campaign Planning",
+    "prompt": "Develop a comprehensive marketing campaign for launching a new mobile app. Include target audience, messaging, channels, timeline, and success metrics."
+  },
+  {
+    "fane": "Education",
+    "section": "Lesson Planning",
+    "kategori": "STEM",
+    "prompt": "Create a hands-on science lesson plan for middle school students about renewable energy. Include objectives, materials, activities, and assessment methods."
+  },
+  {
+    "fane": "Education",
+    "section": "Lesson Planning",
+    "kategori": "Language Arts",
+    "prompt": "Design an interactive English lesson about persuasive writing techniques. Include examples, practice exercises, and a final writing assignment."
+  },
+  {
+    "fane": "Education",
+    "section": "Assessment",
+    "kategori": "Quiz Creation",
+    "prompt": "Create a comprehensive quiz on [topic] with multiple choice, short answer, and essay questions. Include an answer key with explanations."
+  }
+]
